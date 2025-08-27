@@ -85,7 +85,7 @@ export const EVENTS_DATA = [
     },
     {
         image: "assets/event_pics/placeholder.jpg", 
-        link: "https://www.davincicompetition.ca/", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSc5DftQkqhHJ0wlJKFSGWzrl4CcEwIXYTAvK-on1Mkmf4Aheg/viewform", 
         name: "Da Vinci Hackathon",
         tags: [99, 1, 4], 
         date: new Date('October 15, 2025'), // placeholder date
