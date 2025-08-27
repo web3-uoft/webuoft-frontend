@@ -42,6 +42,7 @@ export const EVENTS_DATA = [
         tags: [3,4],
         date: new Date('June 28, 2024'),
     },
+    /*
     {
         image: "assets/event_pics/networking.png",
         link: null,
@@ -49,13 +50,15 @@ export const EVENTS_DATA = [
         tags: [1,5],
         date: new Date('June 28, 2025'), // placeholder date 
     },
+    */
     {
         image: "assets/event_pics/nft_pictionary.png",
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSc1xpd03BH-SZt7HdY5Vp7c6il30Nklyj4AC0dAOxNpNp3yMA/viewform",
+        link: "https://www.instagram.com/p/DGvc7nqRpLF/?img_index=1",
         name: "NFT Pictionary",
         tags: [2,6],
-        date: new Date('March 12, 2025'),
+        date: new Date('March 10, 2025'),
     },
+    /*
     { 
         image: "assets/event_pics/founder_panel.jpg", 
         link: null,  
@@ -64,6 +67,7 @@ export const EVENTS_DATA = [
         date: new Date('June 20, 2025'), // placeholder date
 
     },
+    */
     { 
         image: "assets/event_pics/davinci_comp2024.jpg", 
         link: "https://www.davincicompetition.ca/", 
