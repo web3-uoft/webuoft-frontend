@@ -73,15 +73,15 @@ export const EVENTS_DATA = [
     },
     // events for 2025
     {
-        image: "assets/event_pics/placeholder.jpg", 
-        link: null, 
+        image: "assets/event_pics/Badminton1.png", 
+        link: "https://www.instagram.com/p/DNzWrDxWGGa/?img_index=1", 
         name: "Badminton Tournament",
         tags: [3,4], 
-        date: new Date('September 6, 2025'), // placeholder date
+        date: new Date('September 6, 2025'), 
     },
     {
         image: "assets/event_pics/placeholder.jpg", 
-        link: null, 
+        link: "https://www.davincicompetition.ca/", 
         name: "Da Vinci Hackathon",
         tags: [99, 1, 4], 
         date: new Date('October 15, 2025'), // placeholder date
