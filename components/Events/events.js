@@ -86,7 +86,7 @@ export const EVENTS_DATA = [
     {
         image: "assets/event_pics/placeholder.jpg", 
         link: "https://few-snapdragon-595.notion.site/The-DaVinci-Competition-287ebe40d96881f6adc9f065ad016cab?pvs=74", 
-        name: "Da Vinci Hackathon",
+        name: "Davinci Competition 2026",
         tags: [99, 1, 4], 
         date: new Date('October 15, 2025'), // placeholder date
     },
