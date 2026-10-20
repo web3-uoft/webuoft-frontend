@@ -90,18 +90,18 @@ export const EVENTS_DATA = [
         tags: [99, 1, 4], 
         date: new Date('October 15, 2025'), // placeholder date
     },
-    {
-        image: "assets/event_pics/placeholder.jpg", 
-        link: null,
-        name: "On-Chain Voting Demo",
-        tags: [2],
-        date: new Date('November 10, 2025'), // placeholder date
-    },
-    {
-        image: "assets/event_pics/placeholder.jpg", 
-        link: null, 
-        name: "Solidity 101 Workshop",
-        tags: [2],
-        date: new Date('December 20, 2025'), // placeholder date
-    },
+    // {
+    //     image: "assets/event_pics/placeholder.jpg", 
+    //     link: null,
+    //     name: "On-Chain Voting Demo",
+    //     tags: [2],
+    //     date: new Date('November 10, 2025'), // placeholder date
+    // },
+    // {
+    //     image: "assets/event_pics/placeholder.jpg", 
+    //     link: null, 
+    //     name: "Solidity 101 Workshop",
+    //     tags: [2],
+    //     date: new Date('December 20, 2025'), // placeholder date
+    // },
 ]
