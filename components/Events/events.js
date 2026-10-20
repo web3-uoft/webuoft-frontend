@@ -75,6 +75,14 @@ export const EVENTS_DATA = [
         tags: [99,1,4], 
         date: new Date('October 24, 2024'),
     },
+    // events for 2026
+    {
+        image: "assets/event_pics/Badminton1.png", 
+        link: "https://www.instagram.com/reel/Dd4GNKoMPVM/?mdxt=MXkwZ2Nwdjg3eGM0bQ==", 
+        name: "Play with W3B",
+        tags: [3,4], 
+        date: new Date('October 9, 2026'), 
+    },
     // events for 2025
     {
         image: "assets/event_pics/Badminton1.png", 
@@ -88,7 +96,7 @@ export const EVENTS_DATA = [
         link: "https://few-snapdragon-595.notion.site/The-DaVinci-Competition-287ebe40d96881f6adc9f065ad016cab?pvs=74", 
         name: "Davinci Competition 2026",
         tags: [99, 1, 4], 
-        date: new Date('October 15, 2025'), // placeholder date
+        date: new Date('October 15, 2026'), // placeholder date
     },
     // {
     //     image: "assets/event_pics/placeholder.jpg", 
