@@ -3,6 +3,7 @@ import Members from '../Members';
 import PageHeaderTitleWrapper from '../Wrappers/PageHeaderTitleWrapper';
 import TextButton from '../Buttons/TextButton';
 import ButtonLinkWrapper from '../Buttons/ButtonLinkWrapper';
+import { coPresidents, vicePresidents, directors } from '@/data';
 
 export default function Team({
     ...otherProps
@@ -13,9 +14,9 @@ export default function Team({
             heading={"Meet the Team"}
             text={"At W3B, we are a team of passionate students who are dedicated to bridging the gap between the Management and Computer Science, and promote Web3 technology and its potential benefits to the UofT community."}
             >
-            <Members titleName={'Co-Presidents'} collectionName={'cps'} />
-            <Members titleName={'Vice Presidents'} collectionName={'vps2'} />
-            <Members titleName={'Directors'} collectionName={'directors'} />
+            <Members titleName={'Co-Presidents'} members={coPresidents} />
+            <Members titleName={'Vice Presidents'} members={vicePresidents} />
+            <Members titleName={'Directors'} members={directors} />
             <Divider borderColor={'#F2F2F2'} />
             <Stack gap={'20px'} maxW={'6xl'}>
                 <Text fontSize={useBreakpointValue({ base: 'md', md: '2xl' })}>
